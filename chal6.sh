@@ -1,7 +1,7 @@
-# Script: Ops 201 Class 06 Ops Challenge Solution
+# Script: Ops 201 Class 07 Ops Challenge Solution
 # Joshua Phipps
-# 2/13/2023
-# Purpose: Create Conditionals
+# 2/14/2023
+# Purpose: System Info
 
 
 
