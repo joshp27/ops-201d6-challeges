@@ -23,4 +23,4 @@
 **I really enjoyed making path arrays. However, honing in and becoming proficient with all the scripts we working with would br enjoyable.**
 
 ## What aspect of your shell scripting skillset do you hope to improve next?
-**No mater how good I am at something I know that there is always room for improvement!**
+**No mater how good I am at something I know that there is always room for improvement!**# 301_Python
